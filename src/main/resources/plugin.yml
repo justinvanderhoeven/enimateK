@@ -1,0 +1,6 @@
+name: Atekenim
+version: '${project.version}'
+main: boterkaaseneieren.atekenim.AtekenimGebruik
+api-version: '1.20'
+description: 'Atekenim' # Beschrijving van de plugin
+author: '<Justin>'
